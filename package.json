@@ -1,0 +1,23 @@
+{
+  "name": "animal-farm-nodejs",
+  "version": "1.0.0",
+  "description": "CI/CD demo for assignment",
+  "main": "index.js",
+  "scripts": {
+  "test": "mocha --exit"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudharshanChalla/animal-farm-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudharshanChalla/animal-farm-nodejs/issues"
+  },
+  "homepage": "https://github.com/sudharshanChalla/animal-farm-nodejs#readme",
+  "devDependencies": {
+    "mocha": "^11.7.4"
+  }
+}
